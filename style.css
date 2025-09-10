@@ -1,0 +1,45 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+}
+.list{
+    list-style: none;
+    gap: 20px;
+    display: flex;
+    text-align: center;
+    font-size: larger;
+}
+.image{
+    width: 100%;
+}
+.imgs{
+    margin: 30px;
+}
+.sec{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 20px;
+}
+.btn1{
+    padding: 5px 15px;
+    cursor: pointer;
+}
